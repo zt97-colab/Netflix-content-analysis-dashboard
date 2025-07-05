@@ -29,7 +29,7 @@ This project analyzes the Netflix Movies and TV Shows dataset using Amazon Quick
 | Genre Breakdown | Shows the most common listed genres |
 | Type Distribution | Compares the volume of Movies vs TV Shows |
 
-## Sample Visuals
+## Dashboard Overview
 
 ![Dashboard Overview](Netflix%20Dashboard.png)
 
