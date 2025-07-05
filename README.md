@@ -31,7 +31,7 @@ This project analyzes the Netflix Movies and TV Shows dataset using Amazon Quick
 
 ## Sample Visuals
 
-![Dashboard Overview](dataset/Netflix%20Dashboard.png)
+![Dashboard Overview](Netflix%20Dashboard.png)
 
 
 # How to Recreate the Netflix QuickSight Dashboard
